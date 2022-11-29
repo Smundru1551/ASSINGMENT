@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Toy_ID>S1</Toy_ID>
+    <Price_per_unit>200</Price_per_unit>
+    <FIELD3></FIELD3>
+    <Sales>450000</Sales>
+  </row>
+  <row>
+    <Toy_ID>S8</Toy_ID>
+    <Price_per_unit>150</Price_per_unit>
+    <FIELD3></FIELD3>
+    <Sales>300000</Sales>
+  </row>
+  <row>
+    <Toy_ID>S5</Toy_ID>
+    <Price_per_unit>90</Price_per_unit>
+    <FIELD3></FIELD3>
+    <Sales>670000</Sales>
+  </row>
+</root>

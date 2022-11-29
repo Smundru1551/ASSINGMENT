@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <PNO>3</PNO>
+    <PNAME>plastic</PNAME>
+    <WEIGHT>450</WEIGHT>
+    <CITY>Beijing</CITY>
+  </row>
+  <row>
+    <PNO>5</PNO>
+    <PNAME>metal</PNAME>
+    <WEIGHT>600</WEIGHT>
+    <CITY>Dubai</CITY>
+  </row>
+  <row>
+    <PNO>7</PNO>
+    <PNAME>textiles</PNAME>
+    <WEIGHT>210</WEIGHT>
+    <CITY>Surat</CITY>
+  </row>
+</root>

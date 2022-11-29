@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Toy_ID>S1</Toy_ID>
+    <Toy_Name>Mera</Toy_Name>
+    <Quantity>400</Quantity>
+  </row>
+  <row>
+    <Toy_ID>S8</Toy_ID>
+    <Toy_Name>Vulko</Toy_Name>
+    <Quantity>350</Quantity>
+  </row>
+  <row>
+    <Toy_ID>S5</Toy_ID>
+    <Toy_Name>Trident</Toy_Name>
+    <Quantity>600</Quantity>
+  </row>
+</root>

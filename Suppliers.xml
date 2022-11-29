@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <SNO>1</SNO>
+    <SNAME>David</SNAME>
+    <Status>20</Status>
+    <City>Illinois</City>
+  </row>
+  <row>
+    <SNO>2</SNO>
+    <SNAME>Brown</SNAME>
+    <Status>30</Status>
+    <City>Texas</City>
+  </row>
+  <row>
+    <SNO>3</SNO>
+    <SNAME>Miller</SNAME>
+    <Status>10</Status>
+    <City>sydney</City>
+  </row>
+</root>
